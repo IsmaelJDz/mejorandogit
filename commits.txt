@@ -1,0 +1,12 @@
+* 9ac6cb5 cambie el logo
+* a221640 cambie el logo
+* 2b73cdd cambio de background a gris
+* f7ad22b Cambio de background a rosa mexicano
+* d898f00 borrado ficheros obsoletos
+* dfcf9b4 Segundo link del portafolio
+* 270c525 Agregue portafolio
+* 1539941 Agregue descripcion right
+* c0bf2a6 Agregue redes sociales
+* 21dde08 Perfil Web Escrito
+* 96a3cca Subi foto de perfil y mi nombre
+* 55c3f0a estos son los archivos base de mi portafolio

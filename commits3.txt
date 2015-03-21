@@ -1,0 +1,71 @@
+* commit 9ac6cb5d621b4b7bf906f9ca1cef29bce6e1be59
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Sat Mar 21 15:23:42 2015 -0600
+| 
+|     cambie el logo
+|  
+* commit a221640fbf1f95dbff0a16e544fa07964fec751a
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Sat Mar 21 15:14:49 2015 -0600
+| 
+|     cambie el logo
+|  
+* commit 2b73cddd0a15e487af1d5a09a427a3e1266d128a
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Sat Mar 21 04:39:19 2015 -0600
+| 
+|     cambio de background a gris
+|  
+* commit f7ad22bde6c8ea45473cbeb1cb6ee2d0bf47e818
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Sat Mar 21 04:25:42 2015 -0600
+| 
+|     Cambio de background a rosa mexicano
+|  
+* commit d898f00e420b86e478c2e2566b39c4a343cff01f
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Sat Mar 21 03:18:53 2015 -0600
+| 
+|     borrado ficheros obsoletos
+|  
+* commit dfcf9b46442e1360324403e9e252127738da0190
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Fri Mar 20 19:16:33 2015 -0600
+| 
+|     Segundo link del portafolio
+|  
+* commit 270c52556a9a61b780d87581e6c963cac4c86fec
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Fri Mar 20 03:00:46 2015 -0600
+| 
+|     Agregue portafolio
+|  
+* commit 1539941ad148df948fedf5db78a46ae339c67d8e
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Fri Mar 20 02:57:47 2015 -0600
+| 
+|     Agregue descripcion right
+|  
+* commit c0bf2a6837f690030be7c1f2d7417e0407fbb454
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Fri Mar 20 02:54:47 2015 -0600
+| 
+|     Agregue redes sociales
+|  
+* commit 21dde08a610756849cbdec3bf5785089bfe2bf79
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Fri Mar 20 02:48:22 2015 -0600
+| 
+|     Perfil Web Escrito
+|  
+* commit 96a3cca7b7d217d8f22032e4f79718eac271e3be
+| Author: IsmaelJdz <Ismael_br7@hotmail.com>
+| Date:   Fri Mar 20 02:46:02 2015 -0600
+| 
+|     Subi foto de perfil y mi nombre
+|  
+* commit 55c3f0a92966ff6fb09aae163686e57f50c7771d
+  Author: IsmaelJdz <Ismael_br7@hotmail.com>
+  Date:   Fri Mar 20 02:39:28 2015 -0600
+  
+      estos son los archivos base de mi portafolio
